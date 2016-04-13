@@ -2,7 +2,7 @@ import MapReduce
 import sys
 
 """
-Cut DNA strings and retrieve only the
+Cut DNA strings and retrieve only the unique versions
 """
 
 mr = MapReduce.MapReduce()
